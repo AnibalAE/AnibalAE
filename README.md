@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @AnibalAE
 - 👀 I’m interested in data tecnologies, like Python, NoSQL, Hadoop, PowerBI...
+- 👀 I’m also interested in front-end tecnologies, like Angular and Vue
 - 📫 How to reach me: Linkedn Profile = https://www.linkedin.com/in/an%C3%ADbal-de-medeiros-filho-865ba6a9/
 
 <!---
